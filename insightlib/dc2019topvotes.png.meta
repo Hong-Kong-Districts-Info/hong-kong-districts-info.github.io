@@ -1,0 +1,1 @@
+filterOptions = "[{label: 'All', tags: '.*'}, {ImageDescription: 'Bird', tags: 'bird'}, {label: 'Macro', tags: 'macro'}, {label: 'Insects', tags: 'insect'}]"
