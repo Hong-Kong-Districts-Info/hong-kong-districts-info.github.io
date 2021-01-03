@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hong Kong Districts Info</title>
+    <link>https://hong-kong-districts-info.github.io/en/categories/</link>
+    <description>Recent content in Categories on Hong Kong Districts Info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hong-kong-districts-info.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hong Kong Island</title>
+      <link>https://hong-kong-districts-info.github.io/en/categories/hong-kong-island/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hong-kong-districts-info.github.io/en/categories/hong-kong-island/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kowloon</title>
+      <link>https://hong-kong-districts-info.github.io/en/categories/kowloon/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hong-kong-districts-info.github.io/en/categories/kowloon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Territories</title>
+      <link>https://hong-kong-districts-info.github.io/en/categories/new-territories/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hong-kong-districts-info.github.io/en/categories/new-territories/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
